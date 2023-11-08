@@ -1,7 +1,5 @@
 # Carbon Credit Management System
 
-![Project Image](project_image.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
